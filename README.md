@@ -6,7 +6,7 @@
 * Status of your lab
   * complete
 * Compilation and execution instructions
-  * `gcc -o piku piku.s` or `make`
+  * `gcc -o piku piku.s`
   * `./piku`
 * Didn't run into any issues
 
